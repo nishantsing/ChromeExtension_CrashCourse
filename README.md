@@ -28,3 +28,13 @@
     - goto chrome - more tools - Extensions - unable developer mode
     - Load unpacked and add the files
 
+- Once the extension is ready we can publish on google web store
+    - upload chrome extension [Docs to publish](https://developer.chrome.com/docs/webstore/publish)
+    - One time fees to open chrome web store developer account of $5
+
+- Web store developer dashboard
+- New Item - upload zip file
+
+- You can also create a node server to hide the API key
+- npx create-express-api .
+- create upload on heroku or docker and kubernetes server
